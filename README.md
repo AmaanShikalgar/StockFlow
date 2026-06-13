@@ -17,14 +17,14 @@
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"/>
 </p>
 
-## 📸 Project Preview
+## Project Preview
 
 <p align="center">
   <img src="./frontend/screenshots/demo.png" width="80%"/>
 </p>
 
 
-## ⚡ Features
+## Features
 
 *  JWT Authentication (Login & Register)
 *  Protected API routes
